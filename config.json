@@ -1,0 +1,23 @@
+{
+    "Classes": [
+    {
+    "Class": "keine Leute",
+    "Value": 0,
+    "ButtonName": "keine"
+    },
+    {
+      "Class": "wenig Leute",
+      "Value": 1,
+      "ButtonName": "wenig"
+    },
+    {
+      "Class": "viele Leute",
+      "Value": 2,
+      "ButtonName": "viel"
+    }
+  ],
+  "Variables": {
+    "Description":  "Bewerte die Anzahl Leute im Bild."
+  }
+}
+
