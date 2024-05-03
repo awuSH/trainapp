@@ -1,2 +1,2 @@
 # trainapp
-easy to use web app for training ai data (images)
+easy to install und use web app for clustering images to train for example ai.
